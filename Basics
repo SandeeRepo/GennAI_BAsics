@@ -1,0 +1,76 @@
+Generative AI is a type of artificial intelligence that creates new content - such as text, image, music, or code - by learning patterns from existing data, mimicking human creativity.
+
+** GenAI Impact Area**
+1. Customer Support:- Customer support by chatbot and for deeper problems by a human.
+2. Content Creation:- Text content or Video content.
+3. Education:- Using ChatGPT for studies.
+4. Software Development:- Code written by Claude and ChatGPT.
+
+**Is GenAI successful ??**
+ques:- Does it solve real-world problems ?? 
+Ans:- The Internet solves real-time problems.
+ques:- Is it useful on a daily basis?
+Ans:- yes
+ques:- Is it impacting the world's economy??
+Ans:- Yes, DeepSeek enters the market and wipeout the 1 trillion dollars from the US market.
+ques:- Is it creating new jobs??
+ans:- Yes, highly demandable.
+ques:- Is it accessible ??
+ans:- Yes, it is used by parents very easy to use.
+
+**Solution => Mental Model**
+Foundation Model is the center term.
+Foundation Models- This is genralized models, and they are multitaskers to solve any problem.
+Ex:- LLMs, LMMs.
+
+F.. Model has 2 perspectives---------> User Perspective 
+                  |
+                  |
+                  \/ 
+          Builder Perspective
+
+**And the game began!**
+
+------------User perspective----------
+1. Prompt Engineering
+2. RAG
+3. AI Agents
+4. Vector Databases
+
+-----------Builder perspective-------
+5. Reinforcement Learning with Human Feedback
+6. Pre-Training 
+7. Quantization
+
+----------------In both----------------
+8. Fine Tuning 
+
+**Known**
+1. Machine Learning Fundamentals. 
+2. Deep Learning Fundamentals and at least 1 framework(Pytorch).
+
+****Builder's perspective****
+1. Transformer Architecture:(Encoder, Decoder, Embeddings, Self Attention, Layer Normalization, Language Modelling).
+2. Types of Transformers:- Encoder Only(BERT), Decoder Only(GPT), Encoder&Decoder based (T5).
+3. Training of FD:- Pre-Training (Training Objectives, Tokenization Strategies, Training Strategies, and Handling Challenges).
+4. Optimization:- Training Optimization, Model compression, Optimizing Inference.
+5. Fine Tuning:- Task-specific tuning - RLHF, Instruction tuning PEFT, Continual Pre-Training. 
+6. Evaluation.
+7. Deployment.
+
+****The User's Perspective****
+1. Building Basic LLM Apps:- Open Source vs Closed Source LLMs, Using LLM APIs, LangChain, HuggingFace, Ollama.
+2. Prompt Engineering.
+3. RAG.
+4. Fine Tuning.
+5. Agents
+6. LLMOps
+7. Miscellaneous
+
+
+
+
+
+
+
+
